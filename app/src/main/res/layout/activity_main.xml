@@ -16,8 +16,8 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="410dp"
+        android:layout_height="64dp"
         android:text="@string/ButtonText"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
